@@ -1,5 +1,10 @@
+#IDE
+
+.idea
+
 # Compiled class file
 *.class
+out/ 
 
 # Log file
 *.log
